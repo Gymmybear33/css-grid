@@ -4,6 +4,7 @@
     /* grid-template-columns: 50% 50%; */
     grid-template-columns: repeat(2, 50%);
     /* grid-template-rows: 10rem 10rem 10rem; */
+    /* grid-template-columns: repeat(2, minmax(210px, 510px)); */
     grid-template-rows: repeat(3, 10rem);
 }
 
